@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="letterGradeTest5b" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-12-24T17:26:09" hostname="MSI" time="0.002">
+  <properties/>
+  <testcase name="TC07" classname="letterGradeTest5b" time="0.0"/>
+  <testcase name="TC08" classname="letterGradeTest5b" time="0.0"/>
+  <testcase name="TC09" classname="letterGradeTest5b" time="0.0"/>
+  <testcase name="TC10" classname="letterGradeTest5b" time="0.0"/>
+  <testcase name="TC11" classname="letterGradeTest5b" time="0.0"/>
+  <testcase name="TC12" classname="letterGradeTest5b" time="0.0"/>
+  <testcase name="TC13" classname="letterGradeTest5b" time="0.0"/>
+  <testcase name="TC14" classname="letterGradeTest5b" time="0.0"/>
+  <testcase name="TC15" classname="letterGradeTest5b" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
